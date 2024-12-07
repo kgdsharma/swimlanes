@@ -1,0 +1,3 @@
+<!-- @format -->
+
+[file](sample.md)
